@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "kubectl-ai": {
+      "command": "kubectl-ai",
+      "args": [
+        "--mcp-server",
+        "--kubeconfig",
+        "/path/to/your/.kube/config"
+      ],
+      "env": {}
+    }
+  }
+}
